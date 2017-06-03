@@ -1,0 +1,23 @@
+{
+  "id": "1337",
+  "type": "activity-report-became-public",
+  "attributes": {
+    "message": "Report Became Public!",
+    "created_at": "2016-02-02T04:05:06.000Z",
+    "updated_at": "2016-02-02T04:05:06.000Z",
+    "internal": false
+  },
+  "relationships": {
+    "actor": {
+      "data": {
+        "id": "1337",
+        "type": "program",
+        "attributes": {
+          "handle": "security",
+          "created_at": "2016-02-02T04:05:06.000Z",
+          "updated_at": "2016-02-02T04:05:06.000Z"
+        }
+      }
+    }
+  }
+}

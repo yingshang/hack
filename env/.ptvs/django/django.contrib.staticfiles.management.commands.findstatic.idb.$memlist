@@ -1,0 +1,6 @@
+finders
+force_text
+unicode_literals
+Command
+os
+LabelCommand

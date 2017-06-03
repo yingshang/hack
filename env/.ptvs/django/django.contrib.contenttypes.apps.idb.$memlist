@@ -1,0 +1,7 @@
+ContentTypesConfig
+update_contenttypes
+check_generic_foreign_keys
+AppConfig
+checks
+_
+post_migrate

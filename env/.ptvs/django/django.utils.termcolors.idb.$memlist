@@ -1,0 +1,14 @@
+parse_color_setting
+DEFAULT_PALETTE
+six
+make_style
+NOCOLOR_PALETTE
+colorize
+background
+RESET
+foreground
+DARK_PALETTE
+LIGHT_PALETTE
+opt_dict
+color_names
+PALETTES

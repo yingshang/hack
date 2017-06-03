@@ -1,0 +1,10 @@
+range
+CS_PTR
+c_double
+numpy
+byref
+capi
+GEOSException
+GEOSCoordSeq
+GEOSBase
+c_uint

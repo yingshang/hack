@@ -1,0 +1,7 @@
+PasswordChangeForm
+unicode_literals
+_
+AuthenticationForm
+AdminAuthenticationForm
+AdminPasswordChangeForm
+forms

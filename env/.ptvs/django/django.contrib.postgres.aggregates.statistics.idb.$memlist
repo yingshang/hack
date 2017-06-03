@@ -1,0 +1,16 @@
+RegrSXX
+RegrR2
+RegrIntercept
+Aggregate
+RegrAvgX
+RegrSYY
+CovarPop
+FloatField
+RegrCount
+RegrSXY
+__all__
+IntegerField
+RegrAvgY
+RegrSlope
+StatAggregate
+Corr

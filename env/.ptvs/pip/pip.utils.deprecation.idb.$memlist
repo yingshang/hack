@@ -1,0 +1,10 @@
+RemovedInPip8Warning
+DEPRECATIONS
+absolute_import
+logging
+_warnings_showwarning
+warnings
+install_warning_logger
+PipDeprecationWarning
+RemovedInPip9Warning
+_showwarning

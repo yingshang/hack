@@ -1,0 +1,9 @@
+field_size_re
+FieldInfo
+namedtuple
+FlexibleFieldLookupDict
+DatabaseIntrospection
+BaseDatabaseIntrospection
+TableInfo
+re
+get_field_size

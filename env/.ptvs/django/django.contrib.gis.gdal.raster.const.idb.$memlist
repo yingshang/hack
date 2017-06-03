@@ -1,0 +1,11 @@
+c_int32
+GDAL_TO_CTYPES
+GDAL_PIXEL_TYPES
+c_ubyte
+c_float
+GDAL_INTEGER_TYPES
+c_uint16
+GDAL_RESAMPLE_ALGORITHMS
+c_int16
+c_uint32
+c_double

@@ -1,0 +1,9 @@
+_html_parser
+six
+HTMLParser
+tagfind
+re
+HTMLParseError
+sys
+current_version
+use_workaround

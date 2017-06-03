@@ -1,0 +1,14 @@
+logger
+BaseGeometryWidget
+six
+loader
+gdal
+unicode_literals
+Widget
+OSMWidget
+translation
+GEOSException
+logging
+GEOSGeometry
+OpenLayersWidget
+settings

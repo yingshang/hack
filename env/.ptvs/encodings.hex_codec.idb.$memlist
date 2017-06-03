@@ -1,0 +1,10 @@
+getregentry
+StreamWriter
+binascii
+IncrementalEncoder
+hex_decode
+codecs
+IncrementalDecoder
+hex_encode
+StreamReader
+Codec

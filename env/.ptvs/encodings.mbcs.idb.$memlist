@@ -1,0 +1,10 @@
+StreamWriter
+encode
+mbcs_encode
+mbcs_decode
+getregentry
+codecs
+decode
+IncrementalDecoder
+StreamReader
+IncrementalEncoder

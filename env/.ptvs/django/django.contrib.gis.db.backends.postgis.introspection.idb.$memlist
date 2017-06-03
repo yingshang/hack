@@ -1,0 +1,4 @@
+GeoIntrospectionError
+DatabaseIntrospection
+PostGISIntrospection
+OGRGeomType

@@ -1,0 +1,5 @@
+vary_on_headers
+wraps
+patch_vary_headers
+available_attrs
+vary_on_cookie

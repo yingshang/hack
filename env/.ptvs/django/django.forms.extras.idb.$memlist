@@ -1,0 +1,5 @@
+RemovedInDjango20Warning
+warnings
+widgets
+__all__
+SelectDateWidget

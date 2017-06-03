@@ -1,0 +1,13 @@
+default_etree
+surrogatePairToCodepoint
+supports_lone_surrogates
+text_type
+absolute_import
+unicode_literals
+ModuleType
+division
+moduleFactoryFactory
+MethodDispatcher
+_x
+__all__
+isSurrogatePair

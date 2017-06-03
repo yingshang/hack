@@ -1,0 +1,14 @@
+AddField
+AlterOrderWithRespectTo
+AlterIndexTogether
+CreateModel
+DeleteModel
+unicode_literals
+MigrationOptimizer
+AlterModelTable
+AlterUniqueTogether
+six
+RemoveField
+RenameField
+AlterField
+RenameModel

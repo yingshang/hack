@@ -1,0 +1,7 @@
+defaults
+static
+decorators
+i18n
+debug
+csrf
+generic

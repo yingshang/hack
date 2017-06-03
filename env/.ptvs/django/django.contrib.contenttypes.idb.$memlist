@@ -1,0 +1,10 @@
+apps
+management
+default_app_config
+checks
+views
+models
+migrations
+fields
+admin
+forms

@@ -1,0 +1,16 @@
+ed25519py
+native
+keys
+verify
+ed25519ll
+binary
+djbec
+get_ed25519ll
+__all__
+test
+json
+ALG
+assertTrue
+urlsafe_b64decode
+urlsafe_b64encode
+sign

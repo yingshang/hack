@@ -1,0 +1,14 @@
+ssl
+urllib3
+main
+OpenSSL
+json
+pyopenssl
+chardet
+print_function
+_implementation
+requests_version
+info
+platform
+sys
+cryptography

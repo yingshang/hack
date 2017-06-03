@@ -1,0 +1,4 @@
+make_headers
+b
+ACCEPT_ENCODING
+b64encode

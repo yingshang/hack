@@ -1,0 +1,13 @@
+BaseCache
+default_key_func
+time
+unicode_literals
+DjangoRuntimeWarning
+warnings
+import_string
+get_key_func
+DEFAULT_TIMEOUT
+MEMCACHE_MAX_KEY_LENGTH
+CacheKeyWarning
+InvalidCacheBackendError
+ImproperlyConfigured

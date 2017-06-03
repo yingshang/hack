@@ -1,0 +1,15 @@
+{
+  "id": "1337",
+  "type": "address",
+  "attributes": {
+    "name": "Jane Doe",
+    "street": "535 Mission Street",
+    "city": "San Francisco",
+    "postal_code": "94105",
+    "state": "CA",
+    "country": "United States of America",
+    "created_at": "2016-02-02T04:05:06.000Z",
+    "tshirt_size": "Large",
+    "phone_number": "+1-510-000-0000"
+  }
+}

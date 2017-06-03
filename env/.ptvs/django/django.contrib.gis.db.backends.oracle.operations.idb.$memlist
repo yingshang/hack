@@ -1,0 +1,17 @@
+SDODistance
+SDODWithin
+Geometry
+re
+six
+SDORelate
+aggregates
+SDOOperator
+Database
+SpatialOperator
+Distance
+DatabaseOperations
+BaseSpatialOperations
+OracleSpatialAdapter
+DEFAULT_TOLERANCE
+SDODisjoint
+OracleOperations

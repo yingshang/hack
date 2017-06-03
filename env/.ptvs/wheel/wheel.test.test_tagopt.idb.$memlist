@@ -1,0 +1,15 @@
+test_universal_in_setup_cfg
+SETUP_PY
+test_explicit_tag
+test_default_tag
+tempfile
+test_universal_beats_explicit_tag
+subprocess
+shutil
+test_universal_tag
+py
+test_pythontag_in_setup_cfg
+pytest
+temp_pkg
+sys
+test_legacy_wheel_section_in_setup_cfg

@@ -1,0 +1,10 @@
+getregentry
+StreamWriter
+zlib_encode
+zlib_decode
+IncrementalEncoder
+codecs
+IncrementalDecoder
+StreamReader
+zlib
+Codec

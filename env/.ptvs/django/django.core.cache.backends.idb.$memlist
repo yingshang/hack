@@ -1,0 +1,6 @@
+locmem
+dummy
+base
+memcached
+filebased
+db

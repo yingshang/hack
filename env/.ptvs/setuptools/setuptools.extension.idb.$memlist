@@ -1,0 +1,11 @@
+_get_unpatched
+msvc9_support
+re
+Library
+_Extension
+_have_cython
+functools
+Extension
+have_pyrex
+sys
+distutils

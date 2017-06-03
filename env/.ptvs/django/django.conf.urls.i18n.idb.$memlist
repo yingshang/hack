@@ -1,0 +1,10 @@
+LocaleRegexURLResolver
+six
+set_language
+urlpatterns
+warnings
+patterns
+url
+RemovedInDjango110Warning
+i18n_patterns
+settings

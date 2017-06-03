@@ -1,0 +1,99 @@
+{
+  "data": {
+    "id": "1337",
+    "type": "report",
+    "attributes": {
+      "title": "XSS in login form",
+      "state": "new",
+      "created_at": "2016-02-02T04:05:06.000Z",
+      "vulnerability_information": "...",
+      "triaged_at": null,
+      "closed_at": null,
+      "last_reporter_activity_at": null,
+      "first_program_activity_at": null,
+      "last_program_activity_at": null,
+      "bounty_awarded_at": null,
+      "swag_awarded_at": null,
+      "disclosed_at": null,
+      "last_activity_at": null
+    },
+    "relationships": {
+      "reporter": {
+        "data": {
+          "id": "1337",
+          "type": "user",
+          "attributes": {
+            "username": "api-example",
+            "name": "API Example",
+            "disabled": false,
+            "created_at": "2016-02-02T04:05:06.000Z",
+            "profile_picture": {
+              "62x62": "/assets/avatars/default.png",
+              "82x82": "/assets/avatars/default.png",
+              "110x110": "/assets/avatars/default.png",
+              "260x260": "/assets/avatars/default.png"
+            }
+          }
+        }
+      },
+      "program": {
+        "data": {
+          "id": "1337",
+          "type": "program",
+          "attributes": {
+            "handle": "security",
+            "created_at": "2016-02-02T04:05:06.000Z",
+            "updated_at": "2016-02-02T04:05:06.000Z"
+          }
+        }
+      },
+      "swag": {
+        "data": []
+      },
+      "attachments": {
+        "data": []
+      },
+      "vulnerability_types": {
+        "data": [
+          {
+            "id": "1337",
+            "type": "vulnerability-type",
+            "attributes": {
+              "name": "Cross-Site Scripting (XSS)",
+              "description": "Failure of a site to validate, filter, or encode user input before returning it to another user's web client.",
+              "created_at": "2016-02-02T04:05:06.000Z"
+            }
+          }
+        ]
+      },
+      "activities": {
+        "data": []
+      },
+      "bounties": {
+        "data": [
+          {
+            "id": "1337",
+            "type": "bounty",
+            "attributes": {
+              "amount": "500.00",
+              "bonus_amount": "50.00",
+              "created_at": "2016-02-02T04:05:06.000Z"
+            }
+          },
+          {
+            "id": "1338",
+            "type": "bounty",
+            "attributes": {
+              "amount": "500.00",
+              "bonus_amount": "50.00",
+              "created_at": "2016-02-02T04:05:06.000Z"
+            }
+          }
+        ]
+      },
+      "summaries": {
+        "data": []
+      }
+    }
+  }
+}

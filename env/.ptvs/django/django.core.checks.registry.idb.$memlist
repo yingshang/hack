@@ -1,0 +1,9 @@
+tag_exists
+registry
+unicode_literals
+register
+chain
+CheckRegistry
+run_checks
+Tags
+is_iterable

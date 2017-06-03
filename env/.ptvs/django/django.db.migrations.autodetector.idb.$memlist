@@ -1,0 +1,16 @@
+models
+unicode_literals
+re
+RegexObject
+MigrationQuestioner
+six
+datetime
+MigrationOptimizer
+Migration
+COMPILED_REGEX_TYPE
+MigrationAutodetector
+stable_topological_sort
+chain
+operations
+AlterModelOptions
+settings

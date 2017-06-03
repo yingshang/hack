@@ -1,0 +1,17 @@
+sys
+interpret
+_VARS
+_builtin_compile
+os
+parse_marker
+_cache
+__all__
+default_environment
+compile_marker
+ast
+weakref
+python_implementation
+compile
+ASTWhitelist
+platform
+var

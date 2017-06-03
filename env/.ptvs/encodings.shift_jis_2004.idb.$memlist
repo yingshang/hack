@@ -1,0 +1,10 @@
+codec
+StreamWriter
+StreamReader
+_codecs_jp
+mbc
+getregentry
+codecs
+IncrementalDecoder
+Codec
+IncrementalEncoder

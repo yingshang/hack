@@ -1,0 +1,7 @@
+distutils
+get_abbr_impl
+sys
+sysconfig
+get_supported
+get_impl_ver
+get_platform

@@ -1,0 +1,17 @@
+time
+BaseSettings
+locale
+ENVIRONMENT_VARIABLE
+os
+Settings
+LazySettings
+global_settings
+settings
+ImproperlyConfigured
+importlib
+LazyObject
+UserSettingsHolder
+warnings
+urls
+RemovedInDjango110Warning
+empty

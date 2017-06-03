@@ -1,0 +1,7 @@
+zipfile
+test_pop_zipfile
+hashlib
+StringIO
+wheel
+pytest
+test_verifying_zipfile

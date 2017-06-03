@@ -1,0 +1,7 @@
+os
+get_files
+fnmatch
+matches_patterns
+check_settings
+settings
+ImproperlyConfigured

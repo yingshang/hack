@@ -1,0 +1,15 @@
+static
+settings
+lazy
+get_token
+unicode_literals
+tz
+warnings
+smart_text
+RemovedInDjango110Warning
+csrf
+SimpleLazyObject
+i18n
+request
+debug
+media

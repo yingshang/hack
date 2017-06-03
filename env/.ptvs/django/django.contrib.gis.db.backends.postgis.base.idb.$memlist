@@ -1,0 +1,7 @@
+DatabaseFeatures
+Psycopg2DatabaseWrapper
+NO_DB_ALIAS
+PostGISIntrospection
+PostGISSchemaEditor
+DatabaseWrapper
+PostGISOperations

@@ -1,0 +1,16 @@
+check_session_cookie_secure
+W012
+W015
+W014
+W010
+add_session_cookie_message
+Tags
+Warning
+register
+settings
+W013
+_session_middleware
+check_session_cookie_httponly
+W011
+add_httponly_message
+_session_app

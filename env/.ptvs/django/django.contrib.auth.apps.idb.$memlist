@@ -1,0 +1,7 @@
+post_migrate
+_
+check_user_model
+checks
+AuthConfig
+create_permissions
+AppConfig

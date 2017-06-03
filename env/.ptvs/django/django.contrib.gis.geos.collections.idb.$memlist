@@ -1,0 +1,17 @@
+MultiPolygon
+get_pointer_arr
+byref
+GeometryCollection
+capi
+c_uint
+MultiPoint
+Polygon
+LineString
+GEOSGeometry
+Point
+MultiLineString
+ProjectInterpolateMixin
+LinearRing
+json
+range
+c_int

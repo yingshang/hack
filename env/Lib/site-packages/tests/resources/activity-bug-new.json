@@ -1,0 +1,30 @@
+{
+  "id": "1337",
+  "type": "activity-bug-new",
+  "attributes": {
+    "message": "Bug New!",
+    "created_at": "2016-02-02T04:05:06.000Z",
+    "updated_at": "2016-02-02T04:05:06.000Z",
+    "internal": false
+  },
+  "relationships": {
+    "actor": {
+      "data": {
+        "id": "1337",
+        "type": "user",
+        "attributes": {
+          "username": "api-example",
+          "name": "API Example",
+          "disabled": false,
+          "created_at": "2016-02-02T04:05:06.000Z",
+          "profile_picture": {
+            "62x62": "/assets/avatars/default.png",
+            "82x82": "/assets/avatars/default.png",
+            "110x110": "/assets/avatars/default.png",
+            "260x260": "/assets/avatars/default.png"
+          }
+        }
+      }
+    }
+  }
+}

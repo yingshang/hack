@@ -1,0 +1,7 @@
+write_pkg_info
+_PY3
+read_pkg_info
+BytesGenerator
+read_pkg_info_bytes
+Parser
+Generator

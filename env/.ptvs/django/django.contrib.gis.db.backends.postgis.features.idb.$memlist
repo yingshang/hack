@@ -1,0 +1,3 @@
+BaseSpatialFeatures
+DatabaseFeatures
+Psycopg2DatabaseFeatures

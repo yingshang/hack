@@ -1,0 +1,13 @@
+orig_stdout
+reinit
+wrapped_stdout
+wrapped_stderr
+deinit
+atexit
+reset_all
+init
+atexit_done
+AnsiToWin32
+wrap_stream
+sys
+orig_stderr

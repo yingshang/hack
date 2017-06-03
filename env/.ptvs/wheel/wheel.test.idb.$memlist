@@ -1,0 +1,9 @@
+test_install
+test_signatures
+test_paths
+test_wheelfile
+test_tool
+test_basic
+test_tagopt
+test_keys
+test_ranking

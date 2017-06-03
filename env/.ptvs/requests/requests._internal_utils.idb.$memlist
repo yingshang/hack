@@ -1,0 +1,5 @@
+unicode_is_ascii
+builtin_str
+str
+to_native_string
+is_py2

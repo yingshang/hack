@@ -1,0 +1,7 @@
+FlatPage
+template
+register
+FlatpageNode
+get_flatpages
+get_current_site
+settings

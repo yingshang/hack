@@ -1,0 +1,11 @@
+EggOrigin
+six
+resource_string
+unicode_literals
+warnings
+BaseLoader
+Loader
+Origin
+TemplateDoesNotExist
+apps
+RemovedInDjango20Warning

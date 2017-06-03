@@ -1,0 +1,16 @@
+unicodedata
+dots
+StreamReader
+re
+nameprep
+Codec
+IncrementalEncoder
+StreamWriter
+uace_prefix
+IncrementalDecoder
+ace_prefix
+codecs
+ToUnicode
+getregentry
+stringprep
+ToASCII
