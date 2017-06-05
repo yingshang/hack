@@ -1,9 +1,0 @@
-available_attrs
-cache_page
-decorator_from_middleware_with_args
-add_never_cache_headers
-patch_cache_control
-cache_control
-wraps
-never_cache
-CacheMiddleware

@@ -1,6 +1,0 @@
-install
-get_install_command
-dist
-get_install_paths
-sys
-os

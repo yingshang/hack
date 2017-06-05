@@ -1,0 +1,782 @@
+{
+    "count": 3711,
+    "pages": 149,
+    "reports": [{
+        "id": 229577,
+        "title": "Old password can be new password",
+        "url": "/reports/229577",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 101314,
+            "username": "abiral",
+            "url": "/abiral"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-03T05:07:16.130Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "spetr0x", "sule"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229796,
+        "title": "Missing restriction on string size",
+        "url": "/reports/229796",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 101314,
+            "username": "abiral",
+            "url": "/abiral"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-03T05:06:18.907Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 2,
+        "voters": ["eveez", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 223367,
+        "title": "CSRF - Changing the full name / adding a secondary email identity of an account via a GET request",
+        "url": "/reports/223367",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 88276,
+            "username": "inhibitor181",
+            "url": "/inhibitor181"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T19:08:34.685Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "smit", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 225243,
+        "title": "phone number exposure for riders/drivers given email/uuid",
+        "url": "/reports/225243",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 66980,
+            "username": "vijay_kumar",
+            "url": "/vijay_kumar"
+        },
+        "team": {
+            "url": "/uber",
+            "handle": "uber",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/000/314/471b9095f49e145f6c480bb9bd4fbccdc18f2d2c_small.jpg?1456253342",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/000/314/483bc2b4f4a93ba37e00f0fb57b9ad9ae04079f0_medium.jpg?1456253342"
+            },
+            "profile": {
+                "name": "Uber"
+            }
+        },
+        "bounty_disclosed": true,
+        "formatted_bounty": "$2,000",
+        "total_awarded_bounty_amount": "2000.00",
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T17:56:43.099Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 20,
+        "voters": ["spam404", "cache-money", "bogdantcaciuc", "iampwned", "ngalog", "eveez", "samux", "fantam", "ak1t4", "sahil-mk", "and 10 more..."],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 177472,
+        "title": "CSRF: add item to victim's cart automatically (starbucks.com - updatecart)",
+        "url": "/reports/177472",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 78089,
+            "username": "bughunterboy",
+            "url": "/bughunterboy"
+        },
+        "team": {
+            "url": "/starbucks",
+            "handle": "starbucks",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/001/989/eeb88a587d959eb797ceed8669b245ec9ef20b81_small.?1432930626",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/001/989/48053f0ef688949bbb28248c5fc6ebb4f389820d_medium.?1432930626"
+            },
+            "profile": {
+                "name": "Starbucks"
+            }
+        },
+        "bounty_disclosed": true,
+        "formatted_bounty": "$250",
+        "total_awarded_bounty_amount": "250.00",
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T16:30:07.671Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["bughunterboy", "eveez", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 232185,
+        "title": "Subdomain take over oh-no.cuvva.co and ohno.cuvva.co",
+        "url": "/reports/232185",
+        "substate": "informative",
+        "readable_substate": "Informative",
+        "severity_rating": "none",
+        "reporter": {
+            "id": 139729,
+            "username": "drough",
+            "url": "/drough"
+        },
+        "team": {
+            "url": "/cuvva",
+            "handle": "cuvva",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/020/680/9e4015800b3153ad48a0624d561569796c69bda1_small.?1493963939",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/020/680/f21f75c9a28ec81d783984dfa7117302a4923bcd_medium.?1493963939"
+            },
+            "profile": {
+                "name": "Cuvva"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T15:21:44.774Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 1,
+        "voters": ["spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229541,
+        "title": "Captcha Bypass at Email Reset can lead to Spamming users.",
+        "url": "/reports/229541",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "reporter": {
+            "id": 148249,
+            "username": "sahil-mk",
+            "url": "/sahil-mk"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T14:40:05.317Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 4,
+        "voters": ["eveez", "sahil-mk", "smit", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229620,
+        "title": "Information Disclosure on demo.weblate.org",
+        "url": "/reports/229620",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 79690,
+            "username": "sp1d3rs",
+            "url": "/sp1d3rs"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T14:23:37.025Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "sahil-mk", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 232878,
+        "title": "Missing rate-limits at endpoints",
+        "url": "/reports/232878",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 48,
+            "username": "introvertmac",
+            "url": "/introvertmac"
+        },
+        "team": {
+            "url": "/cuvva",
+            "handle": "cuvva",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/020/680/9e4015800b3153ad48a0624d561569796c69bda1_small.?1493963939",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/020/680/f21f75c9a28ec81d783984dfa7117302a4923bcd_medium.?1493963939"
+            },
+            "profile": {
+                "name": "Cuvva"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": true,
+        "latest_disclosable_activity_at": "2017-06-02T12:38:25.947Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 2,
+        "voters": ["eveez", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 230863,
+        "title": "CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org",
+        "url": "/reports/230863",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 112972,
+            "username": "mrityunjoy-emu",
+            "url": "/mrityunjoy-emu"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T12:15:23.977Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 2,
+        "voters": ["eveez", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 230681,
+        "title": "Reflected XSS on Branch domain",
+        "url": "/reports/230681",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 75897,
+            "username": "jrpeg",
+            "url": "/jrpeg"
+        },
+        "team": {
+            "url": "/cuvva",
+            "handle": "cuvva",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/020/680/9e4015800b3153ad48a0624d561569796c69bda1_small.?1493963939",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/020/680/f21f75c9a28ec81d783984dfa7117302a4923bcd_medium.?1493963939"
+            },
+            "profile": {
+                "name": "Cuvva"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": true,
+        "latest_disclosable_activity_at": "2017-06-02T12:14:37.675Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 4,
+        "voters": ["fillawful", "eveez", "japzdivino", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 228531,
+        "title": "Xss в https://e.mail.ru/",
+        "url": "/reports/228531",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 39411,
+            "username": "xawdxawdx",
+            "url": "/xawdxawdx"
+        },
+        "team": {
+            "url": "/mailru",
+            "handle": "mailru",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/000/065/5d21ab92b4e7aec83bd27fe596736f816c7e59fd_small.png?1397207912",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/000/065/390a2ad469ff2e598d5da551aad5fe9a6b26edd7_medium.png?1397207912"
+            },
+            "profile": {
+                "name": "Mail.Ru"
+            }
+        },
+        "bounty_disclosed": true,
+        "formatted_bounty": "$500",
+        "total_awarded_bounty_amount": "500.00",
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T11:49:19.576Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 6,
+        "voters": ["hunter", "bogdantcaciuc", "eveez", "m7mdharoun", "spetr0x", "mobius07"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 234947,
+        "title": "Sensitive Support Mail Disclosure",
+        "url": "/reports/234947",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 140988,
+            "username": "5z6ar7lu15",
+            "url": "/5z6ar7lu15"
+        },
+        "team": {
+            "url": "/cuvva",
+            "handle": "cuvva",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/020/680/9e4015800b3153ad48a0624d561569796c69bda1_small.?1493963939",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/020/680/f21f75c9a28ec81d783984dfa7117302a4923bcd_medium.?1493963939"
+            },
+            "profile": {
+                "name": "Cuvva"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": true,
+        "latest_disclosable_activity_at": "2017-06-02T11:36:10.074Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "spetr0x", "crosshorxxxx234"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 232614,
+        "title": "Uploaded XLF files result in External Entity Execution",
+        "url": "/reports/232614",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "high",
+        "reporter": {
+            "id": 164214,
+            "username": "4cad",
+            "url": "/4cad"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T11:24:15.924Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 13,
+        "voters": ["bl4de", "fillawful", "bogdantcaciuc", "malcolmx", "eveez", "inhibitor181", "japzdivino", "haxor_kids", "spetr0x", "mrityunjoy-emu", "and 3 more..."],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 232994,
+        "title": "API Does Not Apply Access Controls to Translations",
+        "url": "/reports/232994",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 164214,
+            "username": "4cad",
+            "url": "/4cad"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T11:23:24.362Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "m7mdharoun", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229417,
+        "title": "Design Flaw in session management of password reset ",
+        "url": "/reports/229417",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "reporter": {
+            "id": 110801,
+            "username": "asaxena2190",
+            "url": "/asaxena2190"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T11:00:00.450Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "asaxena2190", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229909,
+        "title": "No notificatoin sent on email after account deletion.",
+        "url": "/reports/229909",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "reporter": {
+            "id": 40723,
+            "username": "mansoor_gilal",
+            "url": "/mansoor_gilal"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T10:24:49.823Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "babayaga_", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229735,
+        "title": "Self-XSS can be achieved in the editor link using filter bypass",
+        "url": "/reports/229735",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "none",
+        "reporter": {
+            "id": 79690,
+            "username": "sp1d3rs",
+            "url": "/sp1d3rs"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T10:04:08.842Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 4,
+        "voters": ["eveez", "japzdivino", "spetr0x", "mrr3boot"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229528,
+        "title": "Login CSRF : Login Authentication Flaw",
+        "url": "/reports/229528",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "medium",
+        "reporter": {
+            "id": 78347,
+            "username": "japzdivino",
+            "url": "/japzdivino"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T09:51:04.711Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 5,
+        "voters": ["eveez", "japzdivino", "spetr0x", "mrr3boot", "jadav233"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 229511,
+        "title": "No Rate Limiting at /contact",
+        "url": "/reports/229511",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 157511,
+            "username": "chols",
+            "url": "/chols"
+        },
+        "team": {
+            "url": "/weblate",
+            "handle": "weblate",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/019/468/8de19bd3587c60a19501ba13609bc8a80071d5ca_small.?1490255263",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/019/468/031e92a2cecbe38ab7cb25b78a1de2e6455a7cda_medium.?1490255263"
+            },
+            "profile": {
+                "name": "Weblate"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-02T09:46:51.475Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 6,
+        "voters": ["eveez", "japzdivino", "chols", "spetr0x", "mrr3boot", "kntx501"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 219293,
+        "title": "Invalid Pointer reference in L_RESCUE",
+        "url": "/reports/219293",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "reporter": {
+            "id": 134101,
+            "username": "ssarong",
+            "url": "/ssarong"
+        },
+        "team": {
+            "url": "/shopify-scripts",
+            "handle": "shopify-scripts",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/015/668/9f47d94cbd9e4311b57f1ab05f67fb5c26fd2e78_small.jpg?1475592254",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/015/668/b50db49e93f656e202ae6f94b4c0821d1184134b_medium.jpg?1475592254"
+            },
+            "profile": {
+                "name": "shopify-scripts"
+            }
+        },
+        "bounty_disclosed": true,
+        "formatted_bounty": "$100",
+        "total_awarded_bounty_amount": "100.00",
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-01T22:06:04.965Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 2,
+        "voters": ["eveez", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 230674,
+        "title": "No rate limiting at POST /2/2017-05-22/send_identifier_token",
+        "url": "/reports/230674",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 88276,
+            "username": "inhibitor181",
+            "url": "/inhibitor181"
+        },
+        "team": {
+            "url": "/cuvva",
+            "handle": "cuvva",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/020/680/9e4015800b3153ad48a0624d561569796c69bda1_small.?1493963939",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/020/680/f21f75c9a28ec81d783984dfa7117302a4923bcd_medium.?1493963939"
+            },
+            "profile": {
+                "name": "Cuvva"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": true,
+        "latest_disclosable_activity_at": "2017-06-01T21:27:49.543Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["eveez", "japzdivino", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 189241,
+        "title": "Reflected XSS on a DoD website",
+        "url": "/reports/189241",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 86511,
+            "username": "juliocesar",
+            "url": "/juliocesar"
+        },
+        "team": {
+            "url": "/deptofdefense",
+            "handle": "deptofdefense",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/016/064/3ce323292157404a24a24ff6f728eb0896950f2a_small.png?1477763288",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/016/064/6a9705b6496b1e2af08100674a0985bd20ea3879_medium.png?1477763288"
+            },
+            "profile": {
+                "name": "U.S. Dept Of Defense"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-01T21:16:07.307Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["juliocesar", "eveez", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 184750,
+        "title": "Reflected XSS on a DoD website",
+        "url": "/reports/184750",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "severity_rating": "low",
+        "reporter": {
+            "id": 75704,
+            "username": "ramsexy",
+            "url": "/ramsexy"
+        },
+        "team": {
+            "url": "/deptofdefense",
+            "handle": "deptofdefense",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/016/064/3ce323292157404a24a24ff6f728eb0896950f2a_small.png?1477763288",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/016/064/6a9705b6496b1e2af08100674a0985bd20ea3879_medium.png?1477763288"
+            },
+            "profile": {
+                "name": "U.S. Dept Of Defense"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-01T21:12:34.313Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 4,
+        "voters": ["smsecurity", "ramsexy", "eveez", "spetr0x"],
+        "requires_view_privilege": false
+    },
+    {
+        "id": 184200,
+        "title": "Reflected XSS on a DoD website",
+        "url": "/reports/184200",
+        "substate": "resolved",
+        "readable_substate": "Resolved",
+        "reporter": {
+            "id": 34190,
+            "username": "korprit",
+            "url": "/korprit"
+        },
+        "team": {
+            "url": "/deptofdefense",
+            "handle": "deptofdefense",
+            "profile_picture_urls": {
+                "small": "https://profile-photos.hackerone-user-content.com/production/000/016/064/3ce323292157404a24a24ff6f728eb0896950f2a_small.png?1477763288",
+                "medium": "https://profile-photos.hackerone-user-content.com/production/000/016/064/6a9705b6496b1e2af08100674a0985bd20ea3879_medium.png?1477763288"
+            },
+            "profile": {
+                "name": "U.S. Dept Of Defense"
+            }
+        },
+        "bounty_disclosed": true,
+        "swag": false,
+        "latest_disclosable_activity_at": "2017-06-01T21:10:13.639Z",
+        "latest_disclosable_action": "disclosed",
+        "vote_count": 3,
+        "voters": ["korprit", "eveez", "spetr0x"],
+        "requires_view_privilege": false
+    }]
+}

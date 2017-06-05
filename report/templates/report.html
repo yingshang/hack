@@ -1,0 +1,25 @@
+<h1><a href="/">home</a></h1>
+{%for result in results%}
+{{result.report_id}}   {{result.title}}</br>
+reporter:<a href={{result.username_url}}>{{result.username}}</a></br>
+report state:{{result.state}}       report create at:{{result.created_at}}</br>
+severity_rating:{{result.severity_rating}}</br>
+{{result.vulnerability_information_html|safe }}
+</br>
+{%endfor%}
+
+{%for summarie in summaries%}
+{%ifequal  summarie.summaries_id "none"%}
+{%else%}
+{{summarie.summaries_id}}</br>
+{{summarie.content_html | safe}}
+{%endifequal%}
+{%endfor%}
+
+{% for dialogue in dialogues%}
+activity_id:{{dialogue.activity_id}}</br>
+type:{{dialogue.type}}</br>
+<h2>message:</h2>{{dialogue.markdown_message | safe}}</br>
+
+</br></br>
+{%endfor%}

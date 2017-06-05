@@ -1,8 +1,0 @@
-urlparse
-StaticFilesHandler
-WSGIHandler
-url2pathname
-settings
-serve
-get_path_info
-utils

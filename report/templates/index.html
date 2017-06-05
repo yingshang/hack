@@ -1,9 +1,17 @@
-<html>
-<head><title></title></head>
-
-<body>
-
-{{ content }}
-
-</body>
-</html>
+<b><a href="/">home</a></b>     <b><a href="/scrapper/">scrapper</a></b> <b><a href="/update/">update</a></b>
+<form action="" method="post">
+        {% csrf_token %}
+        <input type="text" name="key">
+        <input type="submit" value="search">
+    </form>
+<br>reports pages:{{summarys.pages}}</br>
+<br>reports totals:{{summarys.total_reports}}</br>
+<br>reports update time:{{summarys.create_time}}</br>
+{% load pagination_tags %}
+{% autopaginate results  25%}
+</br>
+report_id               title</br>
+{% for result in results%}
+<a href="/reports/{{result.report_id}}">{{result.report_id}}</a>        {{result.title}}</br>
+{% endfor %}
+{% paginate %}

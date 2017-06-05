@@ -1,8 +1,0 @@
-security
-http
-gzip
-cache
-clickjacking
-common
-locale
-csrf

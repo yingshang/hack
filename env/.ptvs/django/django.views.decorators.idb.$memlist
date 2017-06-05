@@ -1,7 +1,0 @@
-vary
-http
-cache
-debug
-gzip
-csrf
-clickjacking

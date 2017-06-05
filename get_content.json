@@ -1,0 +1,403 @@
+{
+    u'abilities': {
+        u'can_manage_common_responses?': False,
+        u'can_reopen?': False,
+        u'can_ban_researcher?': False,
+        u'can_create_severity?': False,
+        u'can_agree_on_going_public?': False,
+        u'assignable_team_member_groups': [
+            
+        ],
+        u'can_export?': False,
+        u'can_assign_to_user?': False,
+        u'can_hide_timeline?': False,
+        u'can_be_manually_disclosed?': False,
+        u'assignable_team_members': [
+            
+        ],
+        u'can_clone?': False,
+        u'can_be_publicly_disclosed?': False,
+        u'can_close_comments?': False,
+        u'can_suggest_bounty_amount?': False,
+        u'can_redact?': False,
+        u'can_post_internal_comments?': False,
+        u'can_change_state?': False,
+        u'can_change_weakness?': False,
+        u'can_add_comment?': False,
+        u'can_reassign_to_team?': False,
+        u'can_change_title?': False,
+        u'can_award_bounty?': False,
+        u'can_award_swag?': False,
+        u'can_close?': False,
+        u'can_manage?': False
+    },
+    u'comments_closed?': False,
+    u'substate': u'resolved',
+    u'bug_reporter_agreed_on_going_public_at': u'2017-04-27T21: 33: 50.504Z',
+    u'voters': [
+        u'spam404',
+        u'jon_bottarini',
+        u'eveez',
+        u'japzdivino',
+        u'spetr0x',
+        u'sh3r1',
+        u'russellc'
+    ],
+    u'has_bounty?': False,
+    u'original_report_id': None,
+    u'id': 193936,
+    u'can_view_team': True,
+    u'team_member_agreed_on_going_public_at': u'2017-05-31T21: 44: 17.546Z',
+    u'vulnerability_information': u'',
+    u'activity_page_count': 1,
+    u'severity': {
+        u'rating': u'high',
+        u'author_type': u'Team'
+    },
+    u'promote_bounties': False,
+    u'title': u'SQLinjectionvulnerabilityonaDoDwebsite',
+    u'vote_count': 7,
+    u'summaries': [
+        {
+            u'category': u'team',
+            u'can_view?': True,
+            u'can_edit?': False,
+            u'id': 4305,
+            u'content': u'ADepartmentofDefensewebsitewasvulnerabletoaSQLinjectionattackwhichmayallowanattackertoexecutearbitrarySQLcommandsandexposesensitivedata.@mthirupwasabletodemonstratethisvulnerabilitybycraftingaspeciallyformattedURL.',
+            u'content_html': u'<p>ADepartmentofDefensewebsitewasvulnerabletoaSQLinjectionattackwhichmayallowanattackertoexecutearbitrarySQLcommandsandexposesensitivedata.<ahref="/mthirup">@mthirup</a>wasabletodemonstratethisvulnerabilitybycraftingaspeciallyformattedURL.</p>\n'
+        },
+        {
+            u'category': u'researcher',
+            u'can_create?': False,
+            u'can_view?': True
+        }
+    ],
+    u'state': u'Closed',
+    u'cve_ids': [
+        
+    ],
+    u'activity_page_number': 1,
+    u'readable_substate': u'Resolved',
+    u'public': True,
+    u'singular_disclosure_disabled': True,
+    u'activities': [
+        {
+            u'automated_response': True,
+            u'created_at': u'2016-12-25T14: 53: 53.387Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2016-12-25T14: 53: 53.387Z',
+            u'actor': {
+                u'url': u'/deptofdefense',
+                u'profile': {
+                    u'name': u'U.S.DeptOfDefense'
+                },
+                u'ibb': False,
+                u'profile_picture_urls': {
+                    u'medium': u'https: //profile-photos.hackerone-user-content.com/production/000/016/064/6a9705b6496b1e2af08100674a0985bd20ea3879_medium.png?1477763288'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : Comment',
+            u'id': 1385287,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2016-12-28T18: 17: 52.582Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2016-12-28T18: 17: 52.582Z',
+            u'actor': {
+                u'username': u'dwarren',
+                u'url': u'/dwarren',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'additional_data': {
+                
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : ReportSeverityUpdated',
+            u'id': 1389330,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2016-12-28T18: 17: 59.742Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2016-12-28T18: 17: 59.742Z',
+            u'actor': {
+                u'username': u'dwarren',
+                u'url': u'/dwarren',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : BugTriaged',
+            u'id': 1389331,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-02-16T18: 12: 04.048Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-02-16T18: 12: 04.048Z',
+            u'actor': {
+                u'username': u'mthirup',
+                u'url': u'/mthirup',
+                u'profile_picture_urls': {
+                    u'medium': u'https: //profile-photos.hackerone-user-content.com/production/000/000/090/0c2a2081014e5752b7687d3bcd88bc97acbe8533_medium.jpg?1489682779'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : Comment',
+            u'id': 1489702,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-03-25T14: 38: 35.252Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-03-25T14: 38: 35.252Z',
+            u'actor': {
+                u'username': u'mthirup',
+                u'url': u'/mthirup',
+                u'profile_picture_urls': {
+                    u'medium': u'https: //profile-photos.hackerone-user-content.com/production/000/000/090/0c2a2081014e5752b7687d3bcd88bc97acbe8533_medium.jpg?1489682779'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : Comment',
+            u'id': 1563008,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-04-26T19: 56: 59.597Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-04-26T19: 56: 59.597Z',
+            u'actor': {
+                u'username': u'aboateng',
+                u'url': u'/aboateng',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : Comment',
+            u'id': 1638575,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-04-26T22: 34: 35.285Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-04-26T22: 34: 35.285Z',
+            u'actor': {
+                u'username': u'mthirup',
+                u'url': u'/mthirup',
+                u'profile_picture_urls': {
+                    u'medium': u'https: //profile-photos.hackerone-user-content.com/production/000/000/090/0c2a2081014e5752b7687d3bcd88bc97acbe8533_medium.jpg?1489682779'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : Comment',
+            u'id': 1638848,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'reporter': {
+                u'username': u'mthirup',
+                u'url': u'/mthirup'
+            },
+            u'created_at': u'2017-04-27T19: 10: 56.912Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-04-27T19: 10: 56.912Z',
+            u'actor': {
+                u'username': u'aboateng',
+                u'url': u'/aboateng',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : BugResolved',
+            u'id': 1641029,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-04-27T21: 33: 50.524Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-04-27T21: 33: 50.524Z',
+            u'actor': {
+                u'username': u'mthirup',
+                u'url': u'/mthirup',
+                u'profile_picture_urls': {
+                    u'medium': u'https: //profile-photos.hackerone-user-content.com/production/000/000/090/0c2a2081014e5752b7687d3bcd88bc97acbe8533_medium.jpg?1489682779'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'first_to_agree': True,
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : AgreedOnGoingPublic',
+            u'id': 1641359,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-05-31T21: 40: 15.270Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-05-31T21: 40: 15.270Z',
+            u'actor': {
+                u'username': u'departmentofdefense',
+                u'url': u'/departmentofdefense',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'additional_data': {
+                
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : ReportTitleUpdated',
+            u'id': 1718326,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-05-31T21: 44: 10.785Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-05-31T21: 44: 10.785Z',
+            u'actor': {
+                u'username': u'departmentofdefense',
+                u'url': u'/departmentofdefense',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : Comment',
+            u'id': 1718337,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-05-31T21: 44: 17.569Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-05-31T21: 44: 17.569Z',
+            u'actor': {
+                u'username': u'departmentofdefense',
+                u'url': u'/departmentofdefense',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : AgreedOnGoingPublic',
+            u'id': 1718338,
+            u'genius_execution_id': None
+        },
+        {
+            u'automated_response': False,
+            u'created_at': u'2017-05-31T21: 44: 17.638Z',
+            u'is_internal': False,
+            u'editable': False,
+            u'updated_at': u'2017-05-31T21: 44: 17.638Z',
+            u'actor': {
+                u'username': u'departmentofdefense',
+                u'url': u'/departmentofdefense',
+                u'profile_picture_urls': {
+                    u'medium': u'/assets/avatars/default-71a302d706457f3d3a31eb30fa3e73e6cf0b1d677b8fa218eaeaffd67ae97918.png'
+                }
+            },
+            u'team_handle': u'deptofdefense',
+            u'message': u'',
+            u'markdown_message': u'',
+            u'type': u'Activities: : ReportBecamePublic',
+            u'id': 1718339,
+            u'genius_execution_id': None
+        }
+    ],
+    u'is_participant': False,
+    u'reporter': {
+        u'disabled': False,
+        u'username': u'mthirup',
+        u'hacker_mediation': False,
+        u'url': u'/mthirup',
+        u'profile_picture_urls': {
+            u'small': u'https: //profile-photos.hackerone-user-content.com/production/000/000/090/300ef35df5d82d67c2436b49ff5fd4430ca3fc0f_small.jpg?1489682779'
+        }
+    },
+    u'weakness': {
+        u'id': 67,
+        u'name': u'SQLInjection'
+    },
+    u'is_external_bug': False,
+    u'visibility': u'no-content',
+    u'disclosed_at': u'2017-05-31T21: 44: 17.621Z',
+    u'stage': 4,
+    u'url': u'https: //hackerone.com/reports/193936',
+    u'created_at': u'2016-12-25T14: 53: 53.274Z',
+    u'original_report_url': None,
+    u'vulnerability_information_html': u'',
+    u'severity_rating': u'high',
+    u'team': {
+        u'profile': {
+            u'website': u'',
+            u'about': u'',
+            u'twitter_handle': u'',
+            u'name': u'U.S.DeptOfDefense'
+        },
+        u'handle': u'deptofdefense',
+        u'url': u'https: //hackerone.com/deptofdefense',
+        u'state': u'public_mode',
+        u'profile_picture_urls': {
+            u'small': u'https: //profile-photos.hackerone-user-content.com/production/000/016/064/3ce323292157404a24a24ff6f728eb0896950f2a_small.png?1477763288',
+            u'medium': u'https: //profile-photos.hackerone-user-content.com/production/000/016/064/6a9705b6496b1e2af08100674a0985bd20ea3879_medium.png?1477763288'
+        },
+        u'awards_miles': False,
+        u'permissions': [
+            
+        ],
+        u'id': 16064,
+        u'default_currency': u'usd'
+    }
+}

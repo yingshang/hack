@@ -1,7 +1,0 @@
-six
-range
-Point
-capi
-GEOSException
-GEOSGeometry
-c_uint

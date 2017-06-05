@@ -1,0 +1,4 @@
+<h1><a href="/">home</a></h1> 
+{%for key in keys%}
+<a href="/reports/{{key.report_id}}">{{key.report_id}}</a>   {{key.title}}</br>
+{% endfor%}

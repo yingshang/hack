@@ -1,8 +1,0 @@
-getregentry
-IncrementalDecoder
-StreamConverter
-IncrementalEncoder
-codecs
-StreamWriter
-StreamReader
-Codec

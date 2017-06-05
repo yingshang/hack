@@ -1,7 +1,0 @@
-static
-StaticFilesNode
-template
-staticfiles_storage
-StaticNode
-do_static
-register

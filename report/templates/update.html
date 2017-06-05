@@ -1,0 +1,13 @@
+<h1><a href="/">home</h1></a>
+<h1>update success</h1>
+<h2>last update time</h2>
+pages:{{ summary1.pages}}</br>
+total_reports:{{summary1.total_reports}}</br>
+create_time:{{summary1.create_time}}</br>
+</br>
+<h2>privious update time</h2>
+{% for sum2 in  summary2%}</br>
+pages:{{ sum2.pages}}</br>
+total_reports:{{sum2.total_reports}}</br>
+create_time:{{sum2.create_time}}
+{%endfor%}

@@ -1,9 +1,0 @@
-python_2_unicode_compatible
-unicode_literals
-force_text
-constants
-Message
-BaseStorage
-LEVEL_TAGS
-utils
-settings

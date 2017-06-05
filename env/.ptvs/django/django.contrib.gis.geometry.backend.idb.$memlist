@@ -1,8 +1,0 @@
-geom_backend
-import_module
-module
-geos
-GeometryException
-Geometry
-settings
-ImproperlyConfigured

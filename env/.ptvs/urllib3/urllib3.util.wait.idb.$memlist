@@ -1,7 +1,0 @@
-EVENT_READ
-DefaultSelector
-EVENT_WRITE
-HAS_SELECT
-_wait_for_io_events
-wait_for_write
-wait_for_read

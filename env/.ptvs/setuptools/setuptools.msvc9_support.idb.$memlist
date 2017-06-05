@@ -1,5 +1,0 @@
-find_vcvarsall
-unpatched
-query_vcvarsall
-patch_for_specialized_compiler
-distutils

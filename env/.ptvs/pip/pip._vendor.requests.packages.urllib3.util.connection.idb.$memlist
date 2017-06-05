@@ -1,7 +1,0 @@
-select
-create_connection
-POLLIN
-socket
-poll
-_set_socket_options
-is_connection_dropped

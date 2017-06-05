@@ -1,9 +1,0 @@
-GDALException
-six
-rcapi
-force_text
-force_bytes
-vcapi
-GDALBase
-c_void_p
-Driver

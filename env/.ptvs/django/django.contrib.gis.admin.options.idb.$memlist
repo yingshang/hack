@@ -1,9 +1,0 @@
-spherical_mercator_srid
-HAS_GDAL
-models
-ModelAdmin
-OpenLayersWidget
-OSMGeoAdmin
-OGRGeomType
-GeoModelAdmin
-ImproperlyConfigured

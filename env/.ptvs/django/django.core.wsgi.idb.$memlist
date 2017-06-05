@@ -1,3 +1,0 @@
-get_wsgi_application
-django
-WSGIHandler
