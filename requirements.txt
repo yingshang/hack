@@ -1,2 +1,2 @@
 django==1.9.2
-dj_pagination=2.2.1
+dj_pagination==2.2.1
