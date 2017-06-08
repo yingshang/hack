@@ -7,7 +7,7 @@ class result(models.Model):
     report_id = models.CharField(max_length=20,default='')
     title = models.CharField(max_length=100,default='')
     url = models.CharField(max_length=100,default='')
-    username = models.CharField(max_length=100,default='')
+    username = models.CharField(max_length=100,default='',null=True)
     username_url = models.CharField(max_length=100,default='')
     state = models.CharField(max_length=20,default='')
     substate = models.CharField(max_length=20,default='')

@@ -4,7 +4,7 @@ import time
 import json
 from models import *
 def get_url(page):
-    time.sleep(8) # sometimes hackerone block us
+    time.sleep(2) # sometimes hackerone block us
     url = "https://hackerone.com/hacktivity?sort_type=latest_disclosable_activity_at&filter=type%3Apublic&page="+str(page)
     headers = {
                         'Accept':'application/json, text/javascript, */*; q=0.01',
@@ -16,7 +16,7 @@ def get_url(page):
     data = json.loads(r.content)    
     return data
 def get_content(url):
-    time.sleep(8) # sometimes hackerone block us
+    time.sleep(2) # sometimes hackerone block us
     headers = {
                         'Accept':'application/json, text/javascript, */*; q=0.01',
                         'content-type':'application/json',
@@ -34,10 +34,11 @@ def get_page():
     return pages
 def resu(pages):
     #sec = 1
-    for i in range(1, pages):
+    for i in range(147, pages):
         #sec = sec +1
        # if (sec%40==1):
           #  time.sleep(10)
+        print i
         data = get_url (i)    
         reports = data['reports']
         for report in reports:
@@ -52,7 +53,6 @@ def resu(pages):
             #try:
             data = get_content(url)
             #except requests.exceptions.Timeout:
-                
             try:
                 state = data['state']
             except KeyError:
@@ -61,9 +61,13 @@ def resu(pages):
                 substate = data['substate']
             except KeyError:
                 substate="none"
-            created_at = data['created_at']           
-            username = data['reporter']['username']
-            username_url  ="https://hackerone.com"+ data['reporter']['url']
+            created_at = data['created_at']         
+            try:
+                username = data['reporter']['username']
+                username_url  ="https://hackerone.com"+ data['reporter']['url']
+            except TypeError:
+                username = "null"
+                username_url = ""
             team_name = data['team']['handle']
             team_url = data['team']['url']
             team_about = data['team']['profile']['about']
