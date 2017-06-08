@@ -34,7 +34,7 @@ def get_page():
     return pages
 def resu(pages):
     #sec = 1
-    for i in range(147, pages):
+    for i in range(1, pages):
         #sec = sec +1
        # if (sec%40==1):
           #  time.sleep(10)
